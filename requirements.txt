@@ -1,0 +1,4 @@
+ivis[cpu]
+hdf5plugin
+loguru
+wandb
